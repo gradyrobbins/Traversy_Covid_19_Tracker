@@ -1,4 +1,4 @@
-# Covid_19_tracker
+# Covid-19 Tracker
 ![Demo](covidtrackerscreengrab.png)
 ## Project setup
 ```
