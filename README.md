@@ -1,5 +1,7 @@
-# Covid_19_tracker
-![Demo](./covidtrackerscreengrab.png)
+
+# Covid-19 Tracker
+![Demo](covidtrackerscreengrab.png)
+
 ## Project setup
 ```
 npm install
